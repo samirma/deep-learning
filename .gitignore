@@ -1,5 +1,12 @@
 .DS_Store
+<<<<<<< HEAD
 cifar-10*
 preprocess*
 __pyca*
 .ipynb*
+=======
+
+# Ignore downloaded datasets
+embeddings/data/
+embeddings/text8.zip
+>>>>>>> 347323bad8d35fc55347bbf62e1687879de2de21
